@@ -1,1 +1,1 @@
-# nexus-ai-os
+# App.js
